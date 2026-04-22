@@ -18,6 +18,16 @@ nav {
   padding: 16px 32px;
   position: sticky;
   top: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  color: goldenrod;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Playfair Display', serif;
 }
 
 nav ul {
