@@ -257,3 +257,15 @@ footer {
   border-color: goldenrod;
   transition: all 0.3s;
 }
+/* ===== ACTIVE AND FOCUS STATES ===== */
+a:focus {
+  outline: 2px solid goldenrod;
+}
+
+input:invalid {
+  border-color: red;
+}
+
+input:valid {
+  border-color: green;
+}
