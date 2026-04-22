@@ -13,10 +13,7 @@ to be visually appealing and easy to navigate.
 
 [View Live Site](https://johnchris.github.io/photography-website)
 
-
-
 ## Technologies Used
 
 - HTML
 - CSS
-
