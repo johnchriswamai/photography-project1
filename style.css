@@ -269,3 +269,7 @@ input:invalid {
 input:valid {
   border-color: green;
 }
+/* ===== DIVIDERS ===== */
+section {
+  border-top: 1px solid lightgray;
+}
